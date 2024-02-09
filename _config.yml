@@ -33,10 +33,10 @@ comments :
 
 # Internal nav
 nav:
-  - ГАЛЛЕРЕЯ: "https://kiranderson.github.io/cinema/gallery/"
-  - ВИДЕО: "https://kiranderson.github.io/cinema/gallery/"
-  - БЛОГ: "https://kiranderson.github.io/cinema/journal/"
-  - О НАС: "https://kiranderson.github.io/cinema/about/"
+  - ГАЛЛЕРЕЯ: "https://kiranderson.github.io/art/gallery/"
+  - ВИДЕО: "https://kiranderson.github.io/art/gallery/"
+  - БЛОГ: "https://kiranderson.github.io/art/journal/"
+  - О НАС: "https://kiranderson.github.io/art/about/"
 
 # All translation keys
 translations:
