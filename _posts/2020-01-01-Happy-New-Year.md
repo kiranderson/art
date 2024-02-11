@@ -2,11 +2,14 @@
 layout:     post
 title:      "С Новым годом дорогие наши"
 subtitle:   "Желаем вам счастья"
+description: "Привет и мои поздравления"
 active: journal
 image:
   feature: "pc005.jpg"
 date:       2020-01-01 
 header-img: "img/postcover/pc005.jpg"
+author: "Александр Иосиенко"
+locale: " "
 tags: [новыйгод, январь]
 categories: [праздник, видео]
 comments: false
