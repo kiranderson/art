@@ -1,3 +1,4 @@
+
 ---
 layout: "post"
 title: "Православное Новогоднее поздравление"
@@ -7,6 +8,10 @@ image:
   feature: "pc008.jpg"
 date: "2019-12-31"
 header-img: "img/postcover/pc008.jpg"
+description: "Православный праздник это здорово. Мои поздравления вам"
+author: "Марина Чекмарёва"
+locale: "ru_RU"
+type: "article"
 tags: [новыйгод, декабрь]
 categories: [праздник, фото]
 comments: "true"
