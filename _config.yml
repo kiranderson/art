@@ -1,5 +1,5 @@
 # Site settings
-title: KIRANDERSON
+title: CHEKMARINA
 email: ""
 description: "Фото журнал"
 url: "https://kiranderson.github.io"
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   kiranderson
+  name:   chekmarina
   avatar: avatar.png
   favicon: favicon.ico
   info: По мотивам сайта kiranderson.com
@@ -61,6 +61,9 @@ gems:
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
+plugins:
+  - jekyll-seo-tag
+  
 # SiteMap
 sitemap:
     file: "/sitemap.xml"
