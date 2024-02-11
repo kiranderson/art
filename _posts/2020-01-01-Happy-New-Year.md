@@ -10,6 +10,7 @@ date:       2020-01-01
 header-img: "img/postcover/pc005.jpg"
 author: "Александр Иосиенко"
 locale: "ru_RU"
+type: "article"
 tags: [новыйгод, январь]
 categories: [праздник, видео]
 comments: false
