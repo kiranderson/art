@@ -12,6 +12,7 @@ author:
   name: Марина Чекмарёва
   url: https://kiranderson.ru/
   image: https://static-cdn4-2.vigbo.tech/u37110/122628/blog/6313988/5966857/78563766/1000-4055006aa43cf0886af853eb533cdeae.jpg
+  alt: кинооператор Кирилл Андерсон
   jobTitle: кинооператор
 locale: "ru_RU"
 type: "article"
