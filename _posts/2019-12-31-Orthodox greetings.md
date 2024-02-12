@@ -10,7 +10,9 @@ header-img: "img/postcover/pc008.jpg"
 description: "Православный праздник это здорово. Мои поздравления вам"
 author:
   name: Марина Чекмарёва
-  url: https://example.com/
+  url: https://kiranderson.ru/
+  name: Кирилл Андерсон
+  url: https://kiranderson.com/
 locale: "ru_RU"
 type: "article"
 tags: [новыйгод, декабрь]
