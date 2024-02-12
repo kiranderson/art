@@ -2,13 +2,15 @@
 layout:     post
 title:      "С Новым годом дорогие наши"
 subtitle:   "Желаем вам счастья"
-description: "Привет и мои поздравления"
+description: "Привет и мои поздравления с Новым годом!"
 active: journal
 image:
   feature: "pc005.jpg"
 date:       2020-01-01 
 header-img: "img/postcover/pc005.jpg"
-author: "Александр Иосиенко"
+author:
+  name: Кирилл Иосипенко
+  url: https://ru.kiranderson.com/
 locale: "ru_RU"
 type: "article"
 tags: [новыйгод, январь]
