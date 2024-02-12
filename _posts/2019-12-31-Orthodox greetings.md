@@ -11,8 +11,6 @@ description: "Православный праздник это здорово. �
 author:
   name: Марина Чекмарёва
   url: https://kiranderson.ru/
-  name: Кирилл Андерсон
-  url: https://kiranderson.com/
 locale: "ru_RU"
 type: "article"
 tags: [новыйгод, декабрь]
