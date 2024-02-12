@@ -8,8 +8,7 @@ image:
 date: "2019-12-31"
 header-img: "img/postcover/pc008.jpg"
 description: "Православный праздник это здорово. Мои поздравления вам"
-author: "Марина Чекмарёва"
-author: "Александр Иосиенко"
+author: [Марина Чекмарёва, Александр Иосиенко]
 locale: "ru_RU"
 type: "article"
 tags: [новыйгод, декабрь]
