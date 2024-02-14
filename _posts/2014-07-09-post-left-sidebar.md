@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 sidebar: left
 subheadline: Templates
 title:  "Страница/публикация с левой боковой панелью"
