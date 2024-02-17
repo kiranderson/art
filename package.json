@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sunbliss/photorama.git"
+    "url": "https://github.com/kiranderson/art.git"
   },
   "author": "Марина Чекмарёва",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/sunbliss/photorama/issues"
+    "url": "https://github.com/kiranderson/art/issues"
   },
   "homepage": "http://sunbliss.github.io",
   "dependencies": {
