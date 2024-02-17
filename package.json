@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/kiranderson/art/issues"
   },
-  "homepage": "http://sunbliss.github.io",
+  "homepage": "http://kiranderson.github.io",
   "dependencies": {
     "searchkit": "^0.7.0"
   }
