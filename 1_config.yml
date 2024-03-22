@@ -1,9 +1,12 @@
 # Site settings
-title: KIRANDERSON
-email: "hello@kiranderson.com"
-description: "Видеостудия KirAnderson"
+title: CHEKMARINA
+email: "chekmarina@mail.ru"
+description: "Мастер классы по араторскому искусству"
 url: "https://kiranderson.github.io"
-baseurl: "/cinema"
+baseurl: "/art"
+author: "Марина Чекмарёва"
+locale: "ru_RU"
+type: "article"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,7 +18,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   kiranderson
+  name:   chekmarina
   avatar: avatar.png
   favicon: favicon.ico
   info: По мотивам сайта kiranderson.com
@@ -33,12 +36,10 @@ comments :
 
 # Internal nav
 nav:
-  - ФОТО: "https://kiranderson.github.io/cinema/gallery/"
-  - ВИДЕО: "https://kiranderson.github.io/cinema/video/"
-  - КЛИПЫ: "https://kiranderson.github.io/cinema/klipy/"
-  - РЕКЛАМА: "https://kiranderson.github.io/cinema/reklama/"
-  - БЛОГ: "https://kiranderson.github.io/cinema/journal/"
-  - О НАС: "https://kiranderson.github.io/cinema/about/"
+  - ГАЛЛЕРЕЯ: "https://kiranderson.github.io/art/gallery/"
+  - ВИДЕО: "https://kiranderson.github.io/art/gallery/"
+  - БЛОГ: "https://kiranderson.github.io/art/journal/"
+  - О НАС: "https://kiranderson.github.io/art/about/"
 
 # All translation keys
 translations:
@@ -64,6 +65,8 @@ plugins:
  - jekyll-paginate
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
+  
+  
 # SiteMap
 sitemap:
     file: "/sitemap.xml"
